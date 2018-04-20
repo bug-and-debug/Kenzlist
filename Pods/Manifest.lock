@@ -1,0 +1,23 @@
+PODS:
+  - KLCPopup (1.0)
+  - MBProgressHUD (1.0.0)
+  - MFSideMenu (0.5.5)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - KLCPopup
+  - MBProgressHUD
+  - MFSideMenu
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  KLCPopup: 76c5a19227977f1e53d85236f9ef42257c168d98
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MFSideMenu: 268122e6894f2747fc3a2b48578100b232506c60
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: d72787944035b2b73fc1acf8c06898d6745c68ce
+
+COCOAPODS: 1.0.1
